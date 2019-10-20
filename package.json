@@ -1,0 +1,23 @@
+{
+  "name": "SPmtns",
+  "version": "1.0.0",
+  "description": "São Paulo metropolitan transport network Services",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Msg: no test specified yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoInocencio/SPmtns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoInocencio/SPmtns/issues"
+  },
+  "homepage": "https://github.com/ThiagoInocencio/SPmtns#readme"
+}
